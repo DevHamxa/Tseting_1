@@ -5,6 +5,12 @@ public class Main {
 
         System.out.println("hamza");
         System.out.println("hamza");
+
+
+
+
+        System.out.println("hamza");
+        System.out.println("hamza");
     }
 }
 
